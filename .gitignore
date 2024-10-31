@@ -1,0 +1,5 @@
+.venv
+archive/
+*.mp4
+.DS_Store
+.gitattributes
